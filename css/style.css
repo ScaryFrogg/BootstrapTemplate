@@ -4,6 +4,9 @@ body{
 a:hover{
     text-decoration: none;
 }
+a:focus{
+    text-decoration:none;
+}
 
 
 footer{
