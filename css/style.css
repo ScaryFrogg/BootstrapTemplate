@@ -9,6 +9,11 @@ a:focus{
 }
 
 
+#mapa-sajta a{
+    font-weight: bold;
+    color:black; /* TODO */
+}
+
 footer{
     margin-top: 20px;
     padding-top: 20px;
